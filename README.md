@@ -1,6 +1,16 @@
 # SEIS-764-Artificial-Intelligence-Assignment-1
 This is the solution for the first assignment for class SEIS 764 Artificial Intelligence
 
+**Building a NN Regression Model**
+
+Dataset: This dataset is about the cost of insurance over a period of a year. Many factors contribute to the cost of
+insurance premiums. In this dataset, however, we will be looking at the age of the primary beneficiary, sex, BMI, the
+number of children covered by health insurance, whether the individual smokes or not, and the region in which the
+individual comes from. Those factors determine the insurance premium charges in this dataset.
+Create a notebook called Assign1.ipynb. Write code for each of the following questions by having a separate cell for
+every question. Copy the actual question in a markdown cell and right below that you should have a code cell as shown
+below.
+
 1. Load the dataset and print how many data instances and columns we have.
 2. Print if there are any missing values in any of the columns.
 3. Print any duplicate rows and delete them if they are available.
